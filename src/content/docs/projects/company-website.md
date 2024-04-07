@@ -15,3 +15,12 @@ Key features of the website include:
 - Admin Portal: A specialized interface for project leaders and privileged users to manage project assignments and access comprehensive database functionalities, streamlining the administrative aspects of project coordination.
 
 The technical foundation of the project leverages the Django-Pixel UI kit for frontend design, providing a robust set of UI components and CSS styling out of the box. Backend operations are supported by a SQLite database, co-hosted with the backend on the server to simplify deployment. However, there is an acknowledgment of the need to transition to a more scalable and secure database solution like PostgreSQL in the future. Additionally, the project's architecture, combining both frontend and backend within a single Django repository, offers an integrated development environment but remains flexible for future adjustments should the project's frontend requirements evolve.
+
+# Updated Aims for the Trimester
+
+Throughout Trimester T1 2024, the Website Development team plans to:
+•	Develop all the documented product backlogs by converting them into Sprint backlogs.
+•	Conduct regular standups to discuss updates, hurdles, backlogs, and solutions.
+•	Consolidate existing features like User Profile, Login Authentication, Interactive front-end UI, and database systems.
+•	Append new features namely- Blog and Resource Tracker for all projects.
+•	Deploy website from PythonAnywhere platform.
