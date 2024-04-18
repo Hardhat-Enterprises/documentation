@@ -57,3 +57,12 @@ To present the contributions made during the trimester, the following deliverabl
 | Technical            | <ul><li> Added the navigation to every page that is visible by users on the website</li><li> Created the email validation pattern for any page that has a form that requires a valid email </li><li> Added images and project cards to the 'What We Do' page </li></ul>    |
 | Mentorship           | <ul><li> Helped Manan with the navigation and help Fangzhou with the email validation </li></ul>    |
 | Non-technical        | <ul><li> no non-technical shown </li></ul>   |
+
+### Uzair Zafar, Team Member 
+
+| Type             | Contributions |
+| -------------    | ------------  |
+| Leadership       | <ul><li>Frontend and Git Leadership</li></ul>   |
+| Technical        | <ul><li>Created Upskilling Resources on webite</li></ul>    |
+| Mentorship       | <ul><li>Helped Raja Singh with Python installation </li></ul>    |
+| Non-technical    | <ul><li>No Non-technicnal</li></ul>    |
