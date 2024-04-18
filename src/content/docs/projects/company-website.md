@@ -57,3 +57,11 @@ To present the contributions made during the trimester, the following deliverabl
 | Technical            | <ul><li> Added the navigation to every page that is visible by users on the website</li><li> Created the email validation pattern for any page that has a form that requires a valid email </li><li> Added images and project cards to the 'What We Do' page </li></ul>    |
 | Mentorship           | <ul><li> Helped Manan with the navigation and help Fangzhou with the email validation </li></ul>    |
 | Non-technical        | <ul><li> no non-technical shown </li></ul>   |
+
+### Callam Besley, Team Member
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | <ul><li> no leadership </li></ul> |
+| Technical            | <ul><li> Added a scroll feature to the appattack page on the services button</li><li> Removed the scroll feature, added three different buttons that lead to three seperate HTML pages with the content in the services section  </li>These HTML pages contain everything displayed in the previous services section, as well as further information<li> HTML pages also contain buttons leading to other services pages and a 'back' button </li></ul>    |
+| Mentorship           | <ul><li> no mentorship </li></ul>    |
+| Non-technical        | <ul><li> no non-technical shown </li></ul>   |
