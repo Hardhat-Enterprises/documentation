@@ -58,6 +58,15 @@ To present the contributions made during the trimester, the following deliverabl
 | Mentorship           | <ul><li> Helped Manan with the navigation and help Fangzhou with the email validation </li></ul>    |
 | Non-technical        | <ul><li> no non-technical shown </li></ul>   |
 
+
+### Callam Besley, Team Member
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | <ul><li> no leadership </li></ul> |
+| Technical            | <ul><li> Added a scroll feature to the appattack page on the services button</li><li> Removed the scroll feature, added three different buttons that lead to three seperate HTML pages with the content in the services section  </li>These HTML pages contain everything displayed in the previous services section, as well as further information<li> HTML pages also contain buttons leading to other services pages and a 'back' button </li></ul>    |
+| Mentorship           | <ul><li> no mentorship </li></ul>    |
+| Non-technical        | <ul><li> no non-technical shown </li></ul>   |
+
 ### Uzair Zafar, Team Member 
 
 | Type             | Contributions |
@@ -66,3 +75,4 @@ To present the contributions made during the trimester, the following deliverabl
 | Technical        | <ul><li>Created Upskilling Resources on webite</li></ul>    |
 | Mentorship       | <ul><li>Helped Raja Singh with Python installation </li></ul>    |
 | Non-technical    | <ul><li>No Non-technicnal</li></ul>    |
+
