@@ -3,6 +3,8 @@ title: Company Website
 description: An overview of the Company Website project.
 ---
 
+Waqas Sarwar
+
 ## What is Company Website?
 
 The Company Website Development project is designed to enhance the company's online presence and streamline the project selection process for students. This initiative focuses on creating a comprehensive website that not only showcases Hardhat Enterprises' capabilities and ongoing projects but also facilitates an informed decision-making process for students interested in joining the company's initiatives.
