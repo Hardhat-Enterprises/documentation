@@ -78,3 +78,12 @@ To present the contributions made during the trimester, the following deliverabl
 | Mentorship       | <ul><li>Helped Raja Singh with Python installation </li></ul>    |
 | Non-technical    | <ul><li>No Non-technicnal</li></ul>    |
 
+### Zeyu Chen, Team Member 
+
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | <ul><li> no Leadership</li></ul>   |
+| Technical            | <ul><li> Resolved asymmetry issue between cards when zoomed to 110% in Home page</li><li> Renamed PT-GUI card to DDT (Deakin Detonator Toolkit) in Home page </li><li> Fixed alignment issue between sections containing "Threats Found," "Team Members," and "Projects Secured" in About-us page </li><li> Added 'Deakin Threat Mirror' project page to the website (Acknowledged the oversight in communication that led to the absence of team members Kushal Madaan and MANAN MEHTA already working on this task) </li></ul>    |
+| Mentorship           | <ul><li> Assisted Fangzhou with Django installation and footer formatting </li></ul>    |
+| Non-technical        | <ul><li> no non-technical shown </li></ul>   |
+
