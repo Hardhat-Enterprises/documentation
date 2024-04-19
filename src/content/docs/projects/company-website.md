@@ -78,3 +78,11 @@ To present the contributions made during the trimester, the following deliverabl
 | Mentorship       | <ul><li>Helped Raja Singh with Python installation </li></ul>    |
 | Non-technical    | <ul><li>No Non-technicnal</li></ul>    |
 
+### Austin Faraj, Team Member 
+
+| Type             | Contributions |
+| -------------    | ------------  |
+| Leadership       | <ul><li>no leadership</li></ul>   |
+| Technical        | <ul><li>Created User profile dashbaord</li><li>Created upskilling/progress tables in database</li></ul>    |
+| Mentorship       | <ul><li>No Mentorship </li></ul>    |
+| Non-technical    | <ul><li>No Non-technicnal</li></ul>    |
