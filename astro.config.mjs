@@ -32,6 +32,16 @@ export default defineConfig({
 						{ label: 'App Attack', link: '/projects/app-attack' },
 					],
 				},
+				{
+					label: 'Documentation',
+					items: [
+						{ label: 'What is Documentation?', link: '/documentation/documentation-overview' },
+						{ label: 'Trimester-1-2024', autogenerate: {
+							directory: 'documentation/Trimester-1-2024',
+							collapsed: true,
+						} },
+					],
+				},
 			],
 		}),
 	],
