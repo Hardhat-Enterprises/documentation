@@ -1,0 +1,108 @@
+
+## Updated Aims for the Trimester
+Throughout Trimester T1 2024, the Website Development team plans to:
+-	Develop all the documented product backlogs by converting them into Sprint backlogs.
+-	Conduct regular standups to discuss updates, hurdles, backlogs, and solutions.
+-	Consolidate existing features like User Profile, Login Authentication, Interactive front-end UI, and database systems.
+-	Append new features namely- Blog and Resource Tracker for all projects.
+-	Deploy website from PythonAnywhere platform.
+
+## Long-Term Deliverables
+Besides the short-term trimester deliverables, the project will also be focusing on the following long-term deliverables:
+-	Develop a consultation feature on the website which can be used by users and/or clients to hire the cyber-security teams.
+-	Use achievement and past stories as a form of portfolio and advertisement for new customers to rely on. 
+
+## Project Mid-trimester Progress
+During this trimester, our team has been working on frontend & backend development to improve the functionality & user experience of Hardhat Enterprises site. We have completed several tasks successfully and are continuing to work on others to achieve project milestones.
+Completed Tasks:
+#	Front-end Developments:
+-	Implemented a Contact Us page allowing visitors to easily reach the admin panel.
+-	Rectified non-functional buttons and links on various pages, ensuring smooth navigation.
+-	Updated content on the 'What we do' HTML page to reflect relevant information about Hardhat Enterprises.
+-	Added footer to all pages for improved navigation and consistency.
+-	Corrected redirection issues of the company logo button and footer links.
+-	Addressed misalignment and hover effect issues on different pages.
+-	Developed the front-end framework of a blog feature for students to write blogs on their achievements and other contents.
+
+
+#	Back-end Developments:
+-	Developed database connectivity for Blog, 'Contact Us' and 'Join Us' features.
+-	Deployed previous website versions on the PythonAnywhere platform for team accessibility.
+
+#	New Features:
+-	Introduced a 'Smishing Detection' project section with a frontend join us form.
+-	Established a Resources and Upskill Tracker section to aid project personnel in skill development.
+-	Implemented individual service buttons on the 'Explore Services' page.
+-	Integrated frontend details for projects like 'Deakin Threat Mirror' and 'Deakin CyberSafe VR.'
+-	Integrated a Blog panel for students and users to write blogs about their ventures and achievements.
+
+# Tasks in Progress:
+-	Continuing backend development for projects like 'Deakin Threat Mirror.', 'Deakin CyberSafe VR.' and 'Smishing Detection'.
+-	Refining front-end elements such as 'Explore Services' buttons.
+-	Working on the admin functionality of the blog feature where admins can accept or deny blog posts.
+-	Developing a user profile feature to enhance user engagement and experience.
+-	Integrating a search engine into the website for easier content access.
+-	Resolving UI issues on mobile devices to ensure consistent user experience across platforms.
+
+# Upcoming Sprint Tasks:
+-	Creating the Upskill database and populating the upskilling roadmap and resource repository webpages.
+-	Finalizing the user profile feature and integrating data protection and privacy policies.
+-	Implementing a search bar on the homepage and backend functionalities to save searched content.
+-	Addressing UI inconsistencies on mobile devices to improve readability and presentation.
+
+
+# Project Plan Updates
+Considering the changing project needs, we have made the following project plan:
+- Prioritizing backend development for pending projects.
+- Allocating additional resources to front-end refinement, particularly for mobile responsiveness and UI consistency.
+- Streamlining the implementation of new features such as the blog function and user profile management.
+- Enhancing project documentation and communication channels to ensure effective collaboration and progress tracking.
+
+
+## Mid-Trimester Contributions
+
+### Md Kaviul Hossain, Project Lead & Company Documentation Lead
+
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | * Presented project overview * objectives and goals to the Company Director and product owner * Hosted Meet & Greet session in which all team members were briefed about the project * Divided the team into Frontend and Backend groups based on their preferences * Hosted weekly sprints twice per week * Conducted interviews and elected Co-leads * Solved 2 merge conflicts in GitHub * Accepted 9 pull requests in GitHub * Added tasks to Trello boards * Made tutorial on GitHub forking, cloning, merging and creating Pull Requests * Documented OnTrack task 2.1P on behalf of the company |
+| Technical            | * Deployed the current version of the website on 'Python Anywhere' PaaS * Developed 'Blog' for the Hardhat website where users can write and upload blogs * Fixed the footer links including the Hardhat logo link * Added a 'What-we-do' page and fixed its link in 'About-us' page * Added database functionality to the 'Join Us' form on the 'About-us' page|
+| Mentorship           | * Guided and directed team members on different technical issues like GitHub clone, fork, merge * Mentored team members on website deployment in their local devices * Guided backend developers on database management * Helped and clarified juniors on OnTrack tasks |
+| Non-technical        | * Sketched sequence diagram for the Blog backend functionality * Developed the Entity Relationship Diagram of the 'Blog' and 'Contact Us' features * Illustrated the functionality of GitHub Fork, Merge and Pull Request Creation in the form of a flow diagram |
+
+### Zoe Kira Chambers, Team Member
+
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | no leadership |
+| Technical            | * Added the navigation to every page that is visible by users on the website * Created the email validation pattern for any page that has a form that requires a valid email * Added images and project cards to the 'What We Do' page |
+| Mentorship           | Helped Manan with the navigation and help Fangzhou with the email validation |
+| Non-technical        | no non-technical shown |
+
+
+### Callam Besley, Team Member
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | no leadership |
+| Technical            | * Added a scroll feature to the appattack page on the services button * Removed the scroll feature * Added three different buttons that lead to three separate HTML pages with the content in the services section * These HTML pages contain everything displayed in the previous services section, as well as further information, HTML pages also contain buttons leading to other services pages and a 'back' button |
+| Mentorship           | no mentorship |
+| Non-technical        | no non-technical shown |
+
+### Uzair Zafar, Team Member 
+
+| Type             | Contributions |
+| -------------    | ------------  |
+| Leadership       | Frontend and Git Leadership  |
+| Technical        | Created Upskilling Resources on webite    |
+| Mentorship       | Helped Raja Singh with Python installation    |
+| Non-technical    | No Non-technical  |
+
+### Zeyu Chen, Team Member 
+
+| Type                 | Contributions   |
+| -------------        | -------------   |
+| Leadership           | no Leadership   |
+| Technical            | * Resolved asymmetry issue between cards when zoomed to 110% in Home page * Renamed PT-GUI card to DDT (Deakin Detonator Toolkit) in Home page * Fixed alignment issue between sections containing "Threats Found," "Team Members," and "Projects Secured" in About-us page * Added 'Deakin Threat Mirror' project page to the website (Acknowledged the oversight in communication that led to the absence of team members Kushal Madaan and MANAN MEHTA already working on this task) |
+| Mentorship           | Assisted Fangzhou with Django installation and footer formatting |
+| Non-technical        | no non-technical shown |
+
